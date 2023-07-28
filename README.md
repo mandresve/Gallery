@@ -71,8 +71,8 @@ You can now enjoy viewing the images in the Gallery app on your HP Prime without
 6.  **Using the Touchscreen and Keyboard**
     -   **Touchscreen Operation**:
         -   To move or pan the image, drag your finger across the touchscreen.
-        -   To zoom in, use a two-finger pinch gesture, bringing your fingers closer together.
-        -   To zoom out, use a two-finger spread gesture, moving your fingers apart.
+        -   To zoom out, use a two-finger pinch gesture, bringing your fingers closer together.
+        -   To zoom in, use a two-finger spread gesture, moving your fingers apart.
     -   **Keyboard Navigation**:
         -   If you prefer using the physical buttons, you can navigate as follows:
             -   Use the [4] (left), [8] (up), [6] (right), and [2] (down) arrow keys to move the image.
