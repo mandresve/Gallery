@@ -100,7 +100,7 @@ You can now enjoy viewing the images in the Gallery app on your HP Prime without
     
     -  Don't worry about image sizes that do not match the specified dimensions. The Gallery app is designed to support images of any size, so you can freely explore a wide variety of pictures without limitations.
 
-# How to Modify and Compile Gallery Source Code:
+# How to Modify and Compile Gallery Source Code
 
 1.  **Download the Repository**
     
