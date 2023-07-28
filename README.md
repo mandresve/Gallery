@@ -4,7 +4,7 @@
 
 ![air14iml-ven](Images/cover.png)
 
-# Install
+# How to Install & Use Gallery
 1.  **Check Firmware Version**
     
     -   Before proceeding, ensure that your calculator's firmware is up-to-date.
