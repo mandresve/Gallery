@@ -21,7 +21,7 @@
     -   Connect your HP calculator to your PC using an appropriate cable. Alternatively, you can use the HP Prime Virtual Emulator if you don't have the physical calculator.
 5.  **Add the `Gallery.hpappdir` Folder to HP Connectivity Kit**
     
-    -   In the HP Connectivity Kit, find the left pane or "Application Library" category.
+    -   In the HP Connectivity Kit, find the left pane, open your calculator, and open the "Application Library" category.
     -   Drag and drop the `Gallery.hpappdir` folder into the "Application Library" category in the left pane.
 
 You have now successfully installed the application on your HP calculator or virtual emulator. Enjoy using the Gallery app!
@@ -34,8 +34,8 @@ You have now successfully installed the application on your HP calculator or vir
     
     -   Ensure that the `Gallery.hpappdir` folder contains a file named `icon.png`.
     -   **Do not remove or delete this `icon.png` file**, as it is essential for the proper functioning of the Gallery app on your HP Prime calculator.
-    - Other `image` files can be removed. 
-    - Files that are not images should not be removed.
+    -   Other image files can be removed. 
+    -   Files that are not images should not be removed.
 3.  **Copy Images into the Folder**
     -   Make sure you have all the images you want to add to the Gallery app.
     -   Copy all the images into the `Gallery.hpappdir` folder.
@@ -44,11 +44,11 @@ You have now successfully installed the application on your HP calculator or vir
     
     -   Connect your HP Prime calculator to your PC using the HP Connectivity Kit or use the Virtual Emulator.
     -   Run the HP Connectivity Kit on your PC. 
-    -   In the HP Connectivity Kit, locate the "Application Library" category on the left pane.
+    -   In the HP Connectivity Kit, open your calculator and locate the "Application Library" category on the left pane.
     -   Drag the entire `Gallery.hpappdir` folder from your PC and drop it inside the "Application Library" category in the HP Connectivity Kit.
 5.  **Completing the Process**
     
-    -   The images, along with the essential files, have been successfully loaded into the Gallery app on your HP Prime calculator.
+    -   The images, along with the essential files, have been successfully loaded into the Gallery app on your HP Prime calculator / emulator.
 
 You can now enjoy viewing the images in the Gallery app on your HP Prime without any issues.
 
